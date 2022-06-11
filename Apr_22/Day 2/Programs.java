@@ -1,8 +1,6 @@
-
-
 import java.util.Scanner;
 
-public class Day2_Programs {
+public class Programs {
 	public static void main(String[] args) {
 		
 //		Scanner sc = new Scanner(System.in);
