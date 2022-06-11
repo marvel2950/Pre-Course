@@ -2,7 +2,7 @@ package Day3;
 
 import java.util.*;
 
-public class Day3_Programs {
+public class Programs {
 	public static void main(String[] args) {
 
 //		//Fibonacci  Series -> nth term
